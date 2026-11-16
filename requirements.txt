@@ -1,0 +1,6 @@
+streamlit>=1.50
+plotly>=5.24
+pandas>=2.2
+fpdf2>=2.7.9
+matplotlib>=3.8
+anthropic>=0.40

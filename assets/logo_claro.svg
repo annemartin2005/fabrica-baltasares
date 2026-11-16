@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="La Fábrica de Baltasares">
+  <title>La Fábrica de Baltasares</title>
+  <!-- Versión para fondos oscuros: trazo dorado, texto crema -->
+  <g transform="translate(4 4)">
+    <rect x="1.5" y="1.5" width="69" height="69" rx="17" fill="none" stroke="#E8B04B" stroke-width="2"/>
+    <path d="M36 6 L38.2 11.8 L44 14 L38.2 16.2 L36 22 L33.8 16.2 L28 14 L33.8 11.8 Z" fill="#E8B04B"/>
+    <path d="M20 37 L22 25 L29 31.5 L36 23 L43 31.5 L50 25 L52 37 Z" fill="none" stroke="#E8B04B" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="16" y="37" width="40" height="27" rx="4.5" fill="none" stroke="#E8B04B" stroke-width="3.2"/>
+    <line x1="36" y1="37" x2="36" y2="64" stroke="#E8B04B" stroke-width="3.2"/>
+    <line x1="16" y1="45" x2="56" y2="45" stroke="#E8B04B" stroke-width="3.2"/>
+  </g>
+  <text x="92" y="31" font-family="Nunito, 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="13" letter-spacing="2.4" fill="#F6DFA8">LA FÁBRICA</text>
+  <text x="91" y="62" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-weight="700" font-size="30" fill="#E8B04B">de Baltasares</text>
+</svg>
